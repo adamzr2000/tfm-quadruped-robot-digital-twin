@@ -86,9 +86,9 @@ echo 'Running go1-interface docker image.'
 
 docker run \
     -it \
-    --name go1-interface \
+    --name go1-robot-interface \
     --rm \
     --net host \
     -e ROS_MASTER_URI="$ros_master_uri" \
     -e ROS_IP="$ros_ip" \
-    adamzr2000/go1-interface:latest
+    adamzr2000/go1-robot-interface:latest
