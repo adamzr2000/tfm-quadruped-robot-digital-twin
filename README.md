@@ -34,7 +34,7 @@ Follow these steps to set up the project on your local system:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/<your-github-username>/go1-docker-ros-digital-twin.git
+git clone https://github.com/adamzr2000/unitree-go1-digital-twin.git
 cd go1-docker-ros-digital-twin
 ```
 
